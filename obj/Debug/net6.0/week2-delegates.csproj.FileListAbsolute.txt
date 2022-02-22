@@ -1,0 +1,15 @@
+/Users/1lexaa/Documents/учеба/week2-delegates/bin/Debug/net6.0/week2-delegates
+/Users/1lexaa/Documents/учеба/week2-delegates/bin/Debug/net6.0/week2-delegates.deps.json
+/Users/1lexaa/Documents/учеба/week2-delegates/bin/Debug/net6.0/week2-delegates.runtimeconfig.json
+/Users/1lexaa/Documents/учеба/week2-delegates/bin/Debug/net6.0/week2-delegates.dll
+/Users/1lexaa/Documents/учеба/week2-delegates/bin/Debug/net6.0/ref/week2-delegates.dll
+/Users/1lexaa/Documents/учеба/week2-delegates/bin/Debug/net6.0/week2-delegates.pdb
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.csproj.AssemblyReference.cache
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.AssemblyInfoInputs.cache
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.AssemblyInfo.cs
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.csproj.CoreCompileInputs.cache
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.dll
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/ref/week2-delegates.dll
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.pdb
+/Users/1lexaa/Documents/учеба/week2-delegates/obj/Debug/net6.0/week2-delegates.genruntimeconfig.cache
